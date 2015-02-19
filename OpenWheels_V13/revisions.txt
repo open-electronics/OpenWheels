@@ -1,0 +1,12 @@
+OPENWHEELS
+
+Some things everyone should be aware before upgrading to this version.
+
+V1.3 (to V1.2)
+	fix bugs ibatlevelsmoothold
+	remove Max voltage battery alarm
+	fix bugs IBatMAX alarm
+	reduced start time
+	improve Integrated function
+	fix bugs on the version
+	improve P3 button press
